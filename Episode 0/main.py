@@ -9,4 +9,4 @@ async def on_ready(): # When the bot is online
     print("Bot Ready !")
     await client.change_presence(activity = discord.Activity(type = discord.ActivityType.listening, name = "Cool Music !")) # "Listening to Cool Music !" < in status
 
-client.run("YOUR TOKEN GO HERE")
+client.run("ODg0NTY2ODIxMjAwNjA5Mjgw.YTaXDA.4tmPhpafpuIUJKeTceNNzDXJNuY")
